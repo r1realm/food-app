@@ -1,0 +1,43 @@
+*{
+      background-color: rgb(244, 203, 127);
+}
+header{
+       text-align: center;
+}
+.backb{
+      text-decoration: none;
+      padding:10px;
+      color: black;
+      font: 1em sans-serif;
+      border-radius: 7px;
+
+}
+.account{
+      text-decoration: none;
+      padding: 12px 18px;
+      color: black;
+      font: 1em sans-serif;
+      border-radius: 7px;
+}
+.navbar{
+      display: flex;
+      justify-content: space-between;
+}
+
+.maintext{
+      text-align: center;
+      margin: 60px;
+}
+
+.popular{
+      text-align: center;
+}
+.otherdishes{
+      text-align: center;
+}
+#text{
+      text-align: left;
+}
+#price{
+      text-align: right;
+}
